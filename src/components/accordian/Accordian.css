@@ -1,0 +1,32 @@
+.accordion-container {
+    max-width: 1000px;
+    margin: 40px auto;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .custom-accordion {
+    margin-bottom: 15px;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #e0e0e0;
+  }
+  
+  .custom-accordion-summary {
+    background-color: #f0f0f0;
+    padding: 10px 16px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .custom-accordion-details {
+    background-color: #ffffff;
+    padding: 16px;
+    color: #1c0202;
+  }
+  
+  
+  
